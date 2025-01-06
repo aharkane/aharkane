@@ -1,4 +1,12 @@
-## <h1>Hi there 👋 </h1>
+<h0></h0>
+ <h1>Hi I'm Amine! 👋 </h1>
+ <h2>Data Analyst | Specialist in Microsoft BI | Certified in Power BI</h2>
+ <h3> Python </h3>
+ <h4> Data Analysis </h4> 
+
+
+
+
 
 <!--
 **AmineHarkane/AmineHarkane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
