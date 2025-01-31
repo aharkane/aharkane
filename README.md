@@ -4,7 +4,7 @@
  <h3> Python </h3>
  <h4> Data Analysis using Pandas </h4>
  
-[`FirstProject`](https://github.com/AmineHarkane/Pandas/blob/main/1st%20project.ipynb)
+[`FirstProject`](https://github.com/AmineHarkane/Pandas/blob/main/Data%20Analysis%20using%20Pandas.ipynb)
 
 
 <!--
