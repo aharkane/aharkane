@@ -7,7 +7,6 @@
 
  <h3> SQL </h3>
  <h4> Data Analysis using T-SQL </h4>
- 
 [`AdventureWorks Business Reporting Using T-SQL`](https://github.com/HarkaneAmine/SQL/blob/main/T-SQL%20Project.ipynb)
 
 
