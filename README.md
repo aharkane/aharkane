@@ -2,9 +2,13 @@
  <h1>Hi I'm Amine! 👋 </h1>
  <h2>Data Analyst | Specialist in Microsoft BI | Certified in Power BI</h2>
  <h3> Python </h3>
- <h4> Data Analysis using Pandas </h4>
- 
+ <h4> Data Analysis using Pandas </h4> 
 [`Data Analysis using Pandas`](https://github.com/AmineHarkane/Pandas/blob/main/Data%20Analysis%20using%20Pandas.ipynb)
+
+ <h3> SQL </h3>
+ <h4> Data Analysis using T-SQL </h4>
+ 
+[`AdventureWorks Business Reporting Using T-SQL`](https://github.com/HarkaneAmine/SQL/blob/main/T-SQL%20Project.ipynb)
 
 
 <!--
