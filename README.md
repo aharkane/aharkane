@@ -1,6 +1,6 @@
 <h0></h0>
  <h1>Hi I'm Amine! 👋 </h1>
- <h2>Data Analyst | Specialist in Microsoft BI | Certified in Power BI</h2>
+ <h2>BI & Data Analyst</h2>
  <h3> Python </h3>
  <h4> Data Analysis using Pandas </h4> 
 
