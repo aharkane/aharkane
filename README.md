@@ -12,7 +12,8 @@
  <h4> Data Analysis using T-SQL </h4>
 
 [`AdventureWorks Business Reporting Using T-SQL`](https://github.com/HarkaneAmine/SQL/blob/main/T-SQL%20Project.ipynb)
-<br> [`Data Load to Fabric Warehouse Using T-SQL`](https://github.com/HarkaneAmine/SQL/blob/main/topubilishproject/Sales%20Data%20Load%20to%20Warehouse.ipynb)
+<br> 
+[`Data Load to Fabric Warehouse Using T-SQL`](https://github.com/HarkaneAmine/SQL/blob/main/topubilishproject/Sales%20Data%20Load%20to%20Warehouse.ipynb)
 
 
 <!--
