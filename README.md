@@ -1,5 +1,5 @@
 
- <h1>Hi I'm Amine! 👋 BI & Data Analyst</h1>
+<h1>Hi I'm Amine! 👋 BI & Data Analyst</h1>
  <h2><a href="https://www.linkedin.com/in/HarkaneAmine" target="_blank">LinkedIn Profil</a>
  <br><a href="https://learn.microsoft.com/en-us/users/amineharkane-6987/" target="_blank">Microsoft Learn Profil</a></h2>
  
