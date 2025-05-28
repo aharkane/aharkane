@@ -15,7 +15,11 @@
 <br><br>
 [`Data Warehouse Implementation & Analytics in Microsoft Fabric Using T-SQL`](https://github.com/HarkaneAmine/SQL/blob/main/topubilishproject/Sales%20Data%20Load%20to%20Warehouse.ipynb)
 
+<h3> Data Viz </h3>
+<h4> Tableau </h4>
 
+[`Capital Bikeshare Trips Dashbord`](https://public.tableau.com/app/profile/mohamed.amine.harkane/viz/UrbanBikeSharinginWashingtonDCNeighbourhood/UrbanBikeSharinginWashingtongDCNeighbourhood)
+<br><br>
 <!--
 **AmineHarkane/AmineHarkane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
