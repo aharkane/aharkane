@@ -18,7 +18,7 @@
 <h3> Data Viz </h3>
 <h4> Tableau </h4>
 
-[`Capital Bikeshare Trips Dashbord`](https://public.tableau.com/app/profile/mohamed.amine.harkane/viz/UrbanBikeSharinginWashingtonDCNeighbourhood/UrbanBikeSharinginWashingtongDCNeighbourhood)
+[`Capital Bikeshare Trips Dashboard`](https://public.tableau.com/app/profile/mohamed.amine.harkane/viz/UrbanBikeSharinginWashingtonDCNeighbourhood/UrbanBikeSharinginWashingtongDCNeighbourhood)
 <br><br>
 <!--
 **AmineHarkane/AmineHarkane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
