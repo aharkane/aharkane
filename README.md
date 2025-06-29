@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 PROJETS
 •	Analyse de Ventes de “AdventureWorks”  (lien Power BI) , (lien GitHub), 	Projet Certificat Microsoft |09/2022 Nettoyage, transformation des données et élaboration des métriques métier à l’aide de DAX, et la création des KPI, de tableaux de bord, permettant à l’équipe des ventes de l’entreprise d’analyser les performances des vendeurs.
 •	Analyse du Comportement des Clients de “Capital Bikeshare” (lien Tableau), 	Projet Certificat Google |09/2022 Nettoyage, transformation de données et élaboration des métriques métiers à l’aide de SQL, création d’une carte de route et tableau de bord sur Tableau aidant à prendre des décisions de marketing afin de convertir d’attirer plus de clients.
-
+-->
