@@ -1,3 +1,4 @@
+
 # Hi, I'm Amine Harkane 👋
 ## Certified BI & Data Analytics Engineer | Microsoft BI Specialist
 
@@ -55,7 +56,7 @@ Here are some of the projects I've worked on.
 * **Tech Stack:** `Power BI`, `DAX`, `T-SQL`
 * **Links:**
     * [`🔗 View T-SQL Analysis (GitHub)`](https://github.com/HarkaneAmine/SQL/blob/main/T-SQL%20Project.ipynb)
-    * *(Suggestion: Add your Power BI "Publish to web" link here if you have one)*
+    * [[AdvWrks Sales Analysis Dashboard](dashboard-preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)
 
 #### 2. Capital Bikeshare Customer Behavior Analysis
 * **Description:** Analyzed customer behavior for a bike-sharing company to inform marketing decisions aimed at converting casual riders to members. Used SQL for data cleaning/transformation and Tableau for visualization and route mapping.
