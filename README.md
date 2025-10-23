@@ -55,8 +55,12 @@ Here are some of the projects I've worked on.
 * **Description:** Developed a comprehensive sales dashboard to analyze seller performance and track key business metrics. Involved cleaning/transforming data, data modeling, and creating KPIs using DAX to empower the sales team.
 * **Tech Stack:** `Power BI`, `DAX`, `T-SQL`
 * **Links:**
-    * [`🔗 View T-SQL Analysis (GitHub)`](https://github.com/HarkaneAmine/SQL/blob/main/T-SQL%20Project.ipynb)
-    * [[AdvWrks Sales Analysis Dashboard](dashboard-preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)
+    * [`🔗 View T-SQL Analysis (GitHub)`](https://github.com/HarkaneAmine/SQL/blob/main/T-SQL%20Project.ipynb)</br>
+       <a href="https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9" target="_blank">
+    <i>🔗 PowerBI Dashboard (click to interact)</i>
+    <br>
+    <img src="dashboard-preview.png" alt="AdventureWorks Sales Dashboard Preview" width="600"/>
+  </a>
 
 #### 2. Capital Bikeshare Customer Behavior Analysis
 * **Description:** Analyzed customer behavior for a bike-sharing company to inform marketing decisions aimed at converting casual riders to members. Used SQL for data cleaning/transformation and Tableau for visualization and route mapping.
