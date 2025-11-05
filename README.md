@@ -42,24 +42,23 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-
 ---
 
 ### 🏆 Certifications
 
-- [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
-- [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
-- [**Databricks Fundamentals**](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816#gs.8wqq2t)
-- [**dbt Fundamentals**](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d#acc.C2k1JZ4A)
-- [**Google Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/2YYTBUFBJFAX)
-- [**SQL for Data Science**](https://www.coursera.org/account/accomplishments/verify/D774BMNS5C5T)
-- [**Microsoft Fabric Data Warehousing**](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A?sharingId)
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
 
-### 🏆 Certifications
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
 
-- <img src="https://images.credly.com/size/100x100/images/61542181-0e8d-496c-a17c-3d4bf590ced1/azure-data-engineer-associate-600x600.png" width="80"> [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
+- ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) [**Databricks Fundamentals**](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816#gs.8wqq2t)
 
-- <img src="https://images.credly.com/size/100x100/images/619f60f8-51b2-4d1c-9d42-7391c0561ba7/PL-300.png" width="80"> [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
+- ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) [**dbt Fundamentals**](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d#acc.C2k1JZ4A)
+
+- ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) [**Google Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/2YYTBUFBJFAX)
+
+- ![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=flat-square&logo=coursera&logoColor=white) [**SQL for Data Science**](https://www.coursera.org/account/accomplishments/verify/D774BMNS5C5T)
+
+- ![Microsoft Fabric](https://img.shields.io/badge/Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white) [**Microsoft Fabric Data Warehousing**](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A?sharingId)
 
 
 
