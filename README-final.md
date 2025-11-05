@@ -1,13 +1,13 @@
 # Hi, I'm Amine Harkane 👋
-## Business Intelligence Engineer | Data Analytics Professional
+## Business Intelligence Engineer | Big Data & AI Engineer | Data Analytics 
 ### 🎓 *Master's in Big Data Engineering (Final Year)*
+🎯 **Status:** Open to **Business Intelligence, Big Data and Data Analytics Engineering** | **Internships & Full-time roles**
 
-<a href="https://www.linkedin.com/in/HarkaneAmine" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/users/amineharkane-6987/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>
-</a>
+**📫 Get In Touch**
+- **[My LinkedIn Profile](https://www.linkedin.com/in/aharkane)**
+
+
+
 
 ---
 
@@ -23,10 +23,14 @@
 - 💬 **Expertise:** **Data Engineering**, **Business Intelligence**, **Cloud Analytics**, **Big Data Processing**
 
 *Passionate about solving complex data challenges and turning insights into business value.*
+*Ready to tackle complex data challenges and build scalable solutions that drive business impact.*
 
 ---
 
 ### 🛠️ Tech Stack
+<a href="https://learn.microsoft.com/en-us/users/amineharkane-6987/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>
+</a>
 
 **Big Data & Distributed Computing**  
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
@@ -122,23 +126,5 @@
 - **Business Impact:** Streamlined operations for 7+ insurance brokers
 - **Output:** Automated Excel reporting with dynamic business logic
 
----
 
-### 📈 GitHub Stats
 
-[![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=aharkane&show_icons=true&theme=radical)](https://github.com/aharkane)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aharkane&layout=compact&theme=radical)](https://github.com/aharkane)
-
----
-
-### 📫 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/HarkaneAmine](https://www.linkedin.com/in/HarkaneAmine)
-- 🎓 **Microsoft Learn:** [Professional Credentials](https://learn.microsoft.com/en-us/users/amineharkane-6987/)
-- 📧 **Email:** harkaneamine@gmail.com
-- 🌍 **Location:** France
-- 🎯 **Status:** Open to **Data Engineering & BI opportunities** | **Internships & Full-time roles**
-
----
-
-*Ready to tackle complex data challenges and build scalable solutions that drive business impact.*
