@@ -57,11 +57,10 @@
 
 ### 🏆 Certifications
 
-- <img src="badges/microsoft-azure-dp203.png" width="100"> [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
+- <img src="https://images.credly.com/size/100x100/images/61542181-0e8d-496c-a17c-3d4bf590ced1/azure-data-engineer-associate-600x600.png" width="80"> [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
 
-- <img src="badges/power-bi-pl300.png" width="100"> [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
+- <img src="https://images.credly.com/size/100x100/images/619f60f8-51b2-4d1c-9d42-7391c0561ba7/PL-300.png" width="80"> [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
 
-- <img src="badges/databricks-fundamentals.png" width="100"> [**Databricks Fundamentals**](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816#gs.8wqq2t)
 
 
 ---
