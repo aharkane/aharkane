@@ -5,6 +5,7 @@
 
 **📫 Get In Touch**
 - **[My LinkedIn Profile](https://www.linkedin.com/in/aharkane)**
+- **[My Email](harkaneamine@gmail.com)**
 
 
 
