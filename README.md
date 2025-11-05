@@ -11,31 +11,37 @@
 ---
 
 ### 👨‍💻 About Me
-
-Data professional specializing in **Microsoft BI Stack** with hands-on experience in data engineering and analytics. I transform raw data into actionable insights using **Power BI, T-SQL, Python, and PySpark**. **Microsoft Certified** (PL-300 & DP-203) with expertise in building efficient data pipelines and interactive dashboards.
-
-- 🔭 Currently building **end-to-end data projects** in Microsoft Fabric
-- 🌱 Exploring **advanced PySpark** and **real-time analytics**
-- 💬 Ask me about: **Power BI, Data Warehousing, SQL Optimization, Python analytics**
-
+*Passionate about turning data into business value through modern analytics platforms and engineering excellence.*
 ---
 
 ### 🛠️ Tech Stack
 
-**BI & Visualization**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-666666?style=for-the-badge)
-
-**Data Engineering & Cloud**  
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Database & Infrastructure**  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-**Languages & Analytics**  
+**DataViz & Reporting**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-666666?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Data Analytics**  
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Big Data & Cloud**  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
 
 ---
 
@@ -43,6 +49,20 @@ Data professional specializing in **Microsoft BI Stack** with hands-on experienc
 
 - [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
 - [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
+- [**Databricks Fundamentals**](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816#gs.8wqq2t)
+- [**dbt Fundamentals**](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d#acc.C2k1JZ4A)
+- [**Google Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/2YYTBUFBJFAX)
+- [**SQL for Data Science**](https://www.coursera.org/account/accomplishments/verify/D774BMNS5C5T)
+- [**Microsoft Fabric Data Warehousing**](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A?sharingId)
+
+### 🏆 Certifications
+
+- <img src="badges/microsoft-azure-dp203.png" width="100"> [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
+
+- <img src="badges/power-bi-pl300.png" width="100"> [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
+
+- <img src="badges/databricks-fundamentals.png" width="100"> [**Databricks Fundamentals**](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816#gs.8wqq2t)
+
 
 ---
 
@@ -90,22 +110,4 @@ Data professional specializing in **Microsoft BI Stack** with hands-on experienc
 - **Impact:** Processes 7 brokers, multiple insurance lines
 - **Output:** Automated Excel reports with structured tabs per business type
 
----
 
-### 📈 GitHub Stats
-
-[![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=aharkane&show_icons=true&theme=radical)](https://github.com/aharkane)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aharkane&layout=compact&theme=radical)](https://github.com/aharkane)
-
----
-
-### 📫 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/HarkaneAmine](https://www.linkedin.com/in/HarkaneAmine)
-- 🎓 **Microsoft Learn:** [My Credentials](https://learn.microsoft.com/en-us/users/amineharkane-6987/)
-- 📧 **Email:** harkaneamine@gmail.com
-- 🌍 **Location:** France
-
----
-
-*Passionate about turning data into business value through modern analytics platforms and engineering excellence.*
