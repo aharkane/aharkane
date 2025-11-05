@@ -2,10 +2,10 @@
 ## Certified BI & Data Analytics Engineer | Microsoft BI Specialist
 
 <a href="https://www.linkedin.com/in/HarkaneAmine" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/users/amineharkane-6987/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>
+    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>
 </a>
 
 ---
@@ -17,50 +17,48 @@
 ### 🛠️ Tech Stack
 
 **Database & Infrastructure**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SSAS](https://img.shields.io/badge/SSAS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=flat&logo=microsoft&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-0078D4?style=flat&logo=microsoft&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 
 **DataViz & Reporting**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-666666?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-666666?style=flat)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 **Data Analytics**  
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Big Data & Cloud**  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 
 ---
 
 ### 🏆 Certifications
 
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) [**Microsoft Certified: Data Engineering on Microsoft Azure (DP-203)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706)
 
-- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c)
 
-- ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) [**Databricks Fundamentals**](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816#gs.8wqq2t)
+- ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) [**Databricks Fundamentals**](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816#gs.8wqq2t)
 
-- ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) [**dbt Fundamentals**](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d#acc.C2k1JZ4A)
+- ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) [**dbt Fundamentals**](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d#acc.C2k1JZ4A)
 
-- ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) [**Google Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/2YYTBUFBJFAX)
+- ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) [**Google Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/2YYTBUFBJFAX)
 
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=flat-square&logo=coursera&logoColor=white) [**SQL for Data Science**](https://www.coursera.org/account/accomplishments/verify/D774BMNS5C5T)
+- ![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=flat&logo=coursera&logoColor=white) [**SQL for Data Science**](https://www.coursera.org/account/accomplishments/verify/D774BMNS5C5T)
 
-- ![Microsoft Fabric](https://img.shields.io/badge/Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white) [**Microsoft Fabric Data Warehousing**](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A?sharingId)
-
-
+- ![Microsoft Fabric](https://img.shields.io/badge/Fabric-0078D4?style=flat&logo=microsoft&logoColor=white) [**Microsoft Fabric Data Warehousing**](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A?sharingId)
 
 ---
 
