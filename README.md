@@ -1,4 +1,4 @@
-# Hi, I'm Amine Harkane 👋
+# Hi, I'm Amine 👋
 ## Certified BI & Data Analytics Engineer | Microsoft BI Specialist
 
 <a href="https://www.linkedin.com/in/HarkaneAmine" target="_blank">
