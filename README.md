@@ -85,18 +85,6 @@
 
 ### 🚀 Featured Projects
 
-#### 📊 [AdventureWorks Sales Performance Dashboard](https://github.com/aharkane/adventureworks-sql-analytics)
-**Interactive business intelligence solution** for sales performance analytics
-- **Stack:** Power BI, DAX, T-SQL
-- **Impact:** Real-time KPI tracking and seller performance insights
-- **Links:** [📈 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9) | [💻 Source Code](https://github.com/aharkane/adventureworks-sql-analytics)
-
-#### 🚴 [Capital Bikeshare Customer Analytics](https://public.tableau.com/app/profile/mohamed.amine.harkane/viz/UrbanBikeSharinginWashingtonDCNeighbourhood/UrbanBikeSharinginWashingtongDCNeighbourhood)
-**Customer behavior analysis** to optimize member conversion and route planning
-- **Stack:** Tableau, SQL, Geospatial Analytics
-- **Business Value:** Data-driven marketing strategy and operational insights
-- **Features:** Interactive route mapping, customer segmentation, conversion funnels
-
 #### 🏢 [Enterprise Data Warehouse - Metadata-Driven Architecture](https://github.com/aharkane/adventureworks-metadata_driven_data_warehouse_implementation)
 **Production-scale data warehouse** with automated ETL and dimensional modeling
 - **Stack:** SQL Server, SSIS, T-SQL, Dimensional Modeling
@@ -120,6 +108,19 @@
 - **Stack:** Python, Pandas, NumPy, Advanced Analytics
 - **Scale:** 2.1M+ transactions, 84K+ products, 2K+ customer households
 - **Technical Achievements:** 25% memory optimization, complete data quality validation
+
+#### 📊 [AdventureWorks Sales Performance Dashboard](https://github.com/aharkane/adventureworks-sql-analytics)
+**Interactive business intelligence solution** for sales performance analytics
+- **Stack:** Power BI, DAX, T-SQL
+- **Impact:** Real-time KPI tracking and seller performance insights
+- **Links:** [📈 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9) | [💻 Source Code](https://github.com/aharkane/adventureworks-sql-analytics)
+
+#### 🚴 [Capital Bikeshare Customer Analytics](https://public.tableau.com/app/profile/mohamed.amine.harkane/viz/UrbanBikeSharinginWashingtonDCNeighbourhood/UrbanBikeSharinginWashingtongDCNeighbourhood)
+**Customer behavior analysis** to optimize member conversion and route planning
+- **Stack:** Tableau, SQL, Geospatial Analytics
+- **Business Value:** Data-driven marketing strategy and operational insights
+- **Features:** Interactive route mapping, customer segmentation, conversion funnels
+
 
 #### 💼 [Automated ETL Pipeline for Financial Reporting](https://github.com/aharkane/courtiers-commissions-reporting)
 **Production ETL system** for multi-broker commission processing and reporting
