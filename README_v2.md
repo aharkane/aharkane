@@ -5,9 +5,9 @@
 🎓 **Master's in Big Data Engineering** (Final Year) | 📍 Based in France  
 💼 **Open to opportunities:** BI Engineer | Data Engineer | Big Data Engineer roles (Internships & Full-time)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aharkane)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harkaneamine@gmail.com)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Profile-0078D4?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/amineharkane-6987/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aharkane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harkaneamine@gmail.com)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/amineharkane-6987/)
 
 ---
 
