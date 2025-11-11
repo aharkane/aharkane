@@ -13,18 +13,20 @@
 ---
 
 ### 👨‍💻 About Me
+-    **Big Data Engineering graduate student with 2+ years of experience in Data and BI engineering** building business intelligence solutions using Microsoft SQL Server, Power BI, and Azure.
+-    **Proven ability in problem-solving and in collaborating with cross-functional teams** to deliver data-driven insights for clients in luxury retail and public administration and other sectors.
+-    **Passionate about solving complex data challenges and turning insights into business value.**
+-    **Ready to tackle complex data challenges and build scalable solutions that drive business impact.**
+-    **Microsoft Certified** professional (DP-203, PL-300) with hands-on expertise across the full data pipeline - from ingestion and processing to visualization and reporting.
 
-**Big Data Engineering graduate student** with proven experience building scalable data solutions and business intelligence systems. I specialize in transforming raw data into actionable insights using modern analytics platforms, cloud technologies, and distributed computing frameworks.
 
-**Microsoft Certified** professional (DP-203, PL-300) with hands-on expertise across the full data pipeline - from ingestion and processing to visualization and reporting.
+
 
 - 🎓 **Education:** Master's Degree in Big Data Engineering (Final Year)
-- 🔭 **Currently:** Building **enterprise-scale data solutions** with Microsoft Fabric & Azure
-- 🌱 **Learning:** Advanced **distributed computing**, **real-time analytics**, **MLOps**
+- 🔭 **Currently:** Learning and building advanced **distributed computing**, **real-time analytics**, **MLOps**
 - 💬 **Expertise:** **Data Engineering**, **Business Intelligence**, **Cloud Analytics**, **Big Data Processing**
 
-*Passionate about solving complex data challenges and turning insights into business value.*
-*Ready to tackle complex data challenges and build scalable solutions that drive business impact.*
+
 
 ---
 
