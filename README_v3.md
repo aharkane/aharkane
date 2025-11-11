@@ -30,13 +30,14 @@ Data Engineer with **2+ years** building production ETL pipelines and BI solutio
 
 ## 🏆 Certifications
 
-| Cert | Link |
-|------|------|
-| Azure Data Engineer (DP-203) | [Verify](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706) |
-| Power BI Data Analyst (PL-300) | [Verify](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c) |
-| Microsoft Fabric Data Warehousing | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A) |
-| Databricks Fundamentals | [Verify](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816) |
-| dbt Fundamentals | [Verify](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d) |
+| Certification | Badge | Verify |
+|---------------|-------|--------|
+| **Azure Data Engineer Associate** (DP-203) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | [View Credential](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706) |
+| **Power BI Data Analyst Associate** (PL-300) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) | [View Credential](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c) |
+| **Microsoft Fabric Data Warehousing** | ![Fabric](https://img.shields.io/badge/Fabric-0078D4?style=flat&logo=microsoft&logoColor=white) | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A) |
+| **Databricks Fundamentals** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) | [View Credential](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816) |
+| **dbt Fundamentals** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) | [View Credential](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d) |
+| **Google Data Analytics Professional** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) | [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/2YYTBUFBJFAX) |
 
 ---
 
