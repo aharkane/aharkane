@@ -70,7 +70,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 
 ## 💼 Featured Projects
 
-### 🏢 [Enterprise Data Warehouse - Metadata-Driven Architecture](https://github.com/aharkane/adventureworks-metadata_driven_data_warehouse_implementation)
+### 🏢 [Production Data Warehouse - Metadata-Driven ETL](https://github.com/aharkane/adventureworks-metadata_driven_data_warehouse_implementation)
 **Production-scale ETL system with automated dimensional modeling and comprehensive audit framework**
 
 `SQL Server` `SSIS` `T-SQL` `Dimensional Modeling` `SCD Type 0/1/2` `CDC`
@@ -81,7 +81,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 - Implements **SCD Type 0/1/2** patterns with IsCurrent flags and validity dates
 - Complete ETL control framework with lineage tracking and cutoff management
 
-### 🏭 [Microsoft Fabric Lakehouse Implementation](https://github.com/aharkane/ms-fabric-dwh_implementation)
+### 🏭 [Modern Data Lakehouse on Microsoft Fabric](https://github.com/aharkane/ms-fabric-dwh_implementation)
 **Modern unified analytics platform combining Lakehouse and Data Warehouse patterns**
 
 `Microsoft Fabric` `Delta Lake` `T-SQL` `Serverless Compute` `Star Schema`
@@ -92,7 +92,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 - Advanced analytics with window functions and complex join patterns
 - Serverless compute for cost-optimized query execution
 
-### ☁️ [Azure Synapse + PySpark Distributed Data Engineering](https://github.com/aharkane/azure-synapse_sql-pyspark_data_engineering)
+### ☁️ [Cloud-Native Big Data Distributed Processing Pipeline with Synapse](https://github.com/aharkane/azure-synapse_sql-pyspark_data_engineering)
 **Cloud-native big data processing with Delta Lake ACID transactions and serverless analytics**
 
 `Azure Synapse` `PySpark` `Delta Lake` `ADLS Gen2` `Serverless SQL`
@@ -103,7 +103,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 - **Serverless SQL Pool** with OPENROWSET for cost-effective multi-format querying (CSV/Parquet/JSON/Delta)
 - Demonstrates schema evolution, partition pruning, and predicate pushdown optimization
 
-### 📊 [Retail Analytics - 2.1M+ Transaction Analysis](https://github.com/aharkane/retail-analytics-pandas)
+### 📊 [Large-Scale Retail Analytics with Pandas](https://github.com/aharkane/retail-analytics-pandas)
 **Enterprise-scale data analysis for retail M&A due diligence with memory optimization**
 
 `Python` `Pandas` `NumPy` `Data Quality Engineering` `Customer Analytics`
@@ -114,7 +114,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 - Calculated customer lifetime value ($3,175 avg), basket analysis ($28.62 avg), and product rankings
 - Identified high-value customer segments and discount effectiveness patterns
 
-### 📈 [AdventureWorks Sales Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)
+### 📈 [Sales Analytics Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)
 **Interactive real-time BI solution with advanced DAX calculations and KPI tracking**
 
 `Power BI` `DAX` `T-SQL` `Data Modeling` `Interactive Analytics`
@@ -124,7 +124,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 - Interactive filters, drill-through pages, and dynamic visuals
 - [**📊 View Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)
 
-### 🚴 [Capital Bikeshare Customer Analytics Dashboard](https://public.tableau.com/app/profile/mohamed.amine.harkane/viz/UrbanBikeSharinginWashingtonDCNeighbourhood/UrbanBikeSharinginWashingtongDCNeighbourhood)
+### 🚴 [Urban Mobility - Bikeshare Customer Behavior Analytics Dashborad - Tableau](https://public.tableau.com/app/profile/mohamed.amine.harkane/viz/UrbanBikeSharinginWashingtonDCNeighbourhood/UrbanBikeSharinginWashingtongDCNeighbourhood)
 **Geospatial analytics platform for customer behavior optimization and route planning**
 
 `Tableau` `SQL` `Geospatial Analytics` `Customer Segmentation`
@@ -140,7 +140,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 
 <br>
 
-### [SSIS Product Data Pipeline with SCD Type 2](https://github.com/aharkane/adventureworks-dwh-csv_products_scd_data_etl)
+### [Product Data Load Pipeline with Change History - SSIS & SQL](https://github.com/aharkane/adventureworks-dwh-csv_products_scd_data_etl)
 **Historical change tracking for product catalog management with dual processing approaches**
 
 `SSIS` `SCD Type 2` `CSV Processing` `Historical Tracking`
@@ -150,7 +150,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 - Change detection for names, prices, and new product introductions
 - Automated file archival and complete audit trail
 
-### [SSIS Database Export Pipeline](https://github.com/aharkane/adventureworks-dwh-db_to_csv_data_export)
+### [Dynamic Database-to-CSV Data Export Pipeline - SSIS & SQL](https://github.com/aharkane/adventureworks-dwh-db_to_csv_data_export)
 **Automated data extraction using command-line utilities with intelligent folder routing**
 
 `SSIS` `BCP.EXE` `SQLCMD.EXE` `Dynamic Processing` `Metadata-Driven`
@@ -160,7 +160,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 - **Smart routing logic**: Dimensions → DimTables/, Facts → FactTables/
 - Variable-driven command construction with expression-based parameter building
 
-### [AdventureWorks SQL Analytics](https://github.com/aharkane/adventureworks-sql-analytics)
+### [Advanced T-SQL Analytics and Reporting](https://github.com/aharkane/adventureworks-sql-analytics)
 **Advanced T-SQL patterns for business intelligence reporting and database operations**
 
 `T-SQL` `Window Functions` `CTEs` `CRUD Operations`
@@ -170,7 +170,7 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 - NULL handling patterns (COALESCE, NULLIF) and conditional logic (CASE statements)
 - Complete CRUD cycle with transaction management and identity tracking
 
-### [Financial Reporting ETL Pipeline](https://github.com/aharkane/courtiers-commissions-reporting)
+### [Système Automatisé de Reporting Multi-Courtiers (Multi-Broker Financial Reporting Automation) - FR](https://github.com/aharkane/courtiers-commissions-reporting)
 **Automated commission processing for 7+ insurance brokers with Excel report generation**
 
 `Python` `Pandas` `openpyxl` `Automated Reporting` `Business Logic`
