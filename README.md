@@ -91,7 +91,7 @@
 **Production-scale data warehouse** with automated ETL and dimensional modeling
 - **Stack:** SQL Server, SSIS, T-SQL, Dimensional Modeling
 - **Scale:** 120K+ records with <5s incremental load performance
-- **Features:** 19 stored procedures, SCD Type 1/2, audit framework, star schema design
+- **Features:** 19 stored procedures, SCD Type 0/1/2, CDC patterns, audit framework, star schema design
 
 #### 🏭 [Microsoft Fabric Lakehouse Implementation](https://github.com/aharkane/ms-fabric-dwh_implementation)
 **Modern data architecture** combining Lakehouse and Data Warehouse patterns
@@ -105,17 +105,35 @@
 - **Big Data Features:** Partitioning strategies, schema evolution, time travel, ACID transactions
 - **Performance:** Optimized for large-scale analytics with partition pruning and predicate pushdown
 
+#### 📦 [SSIS Product Data Pipeline with SCD Type 2](https://github.com/aharkane/adventureworks-dwh-csv_products_scd_data_etl)
+**Enterprise ETL solution** for product catalog management with historical tracking
+- **Stack:** SQL Server Integration Services, T-SQL, CSV Processing
+- **Features:** Dual processing approaches (row-by-row and batch), complete change history
+- **Implementation:** IsCurrent flags, validity dates, automated file archival
+
+#### 📤 [SSIS Database Export Pipeline](https://github.com/aharkane/adventureworks-dwh-db_to_csv_data_export)
+**Automated data extraction** using command-line utilities for data distribution
+- **Stack:** SSIS, BCP.EXE, SQLCMD.EXE, Dynamic Processing
+- **Automation:** Metadata-driven table enumeration, intelligent folder routing
+- **Output:** CSV exports with organized directory structure (Dimensions/Facts)
+
 #### 📊 [Large-Scale Retail Analytics - 2.1M+ Transactions](https://github.com/aharkane/retail-analytics-pandas)
 **Enterprise data analysis** for retail acquisition due diligence
 - **Stack:** Python, Pandas, NumPy, Advanced Analytics
 - **Scale:** 2.1M+ transactions, 84K+ products, 2K+ customer households
 - **Technical Achievements:** 25% memory optimization, complete data quality validation
 
-#### 📊 [AdventureWorks Sales Performance Dashboard](https://github.com/aharkane/adventureworks-sql-analytics)
-**Interactive business intelligence solution** for sales performance analytics
-- **Stack:** Power BI, DAX, T-SQL
-- **Impact:** Real-time KPI tracking and seller performance insights
-- **Links:** [📈 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9) | [💻 Source Code](https://github.com/aharkane/adventureworks-sql-analytics)
+#### 🔍 [AdventureWorks Business Intelligence & SQL Analytics](https://github.com/aharkane/adventureworks-sql-analytics)
+**Comprehensive SQL project** demonstrating business reporting and database operations
+- **Stack:** T-SQL, SQL Server, Advanced Query Patterns
+- **Coverage:** Product analysis, customer intelligence, hierarchical reporting, CRUD operations
+- **Skills:** Window functions, CTEs, transaction management, NULL handling
+
+#### 💼 [Automated ETL Pipeline for Financial Reporting](https://github.com/aharkane/courtiers-commissions-reporting)
+**Production ETL system** for multi-broker commission processing and reporting
+- **Stack:** Python, Pandas, Automated Report Generation
+- **Business Impact:** Streamlined operations for 7+ insurance brokers
+- **Output:** Automated Excel reporting with dynamic business logic
 
 #### 🚴 [Capital Bikeshare Customer Analytics](https://public.tableau.com/app/profile/mohamed.amine.harkane/viz/UrbanBikeSharinginWashingtonDCNeighbourhood/UrbanBikeSharinginWashingtongDCNeighbourhood)
 **Customer behavior analysis** to optimize member conversion and route planning
@@ -123,12 +141,12 @@
 - **Business Value:** Data-driven marketing strategy and operational insights
 - **Features:** Interactive route mapping, customer segmentation, conversion funnels
 
+#### 📊 [AdventureWorks Sales Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)
+**Interactive business intelligence solution** for sales performance analytics
+- **Stack:** Power BI, DAX, T-SQL
+- **Impact:** Real-time KPI tracking and seller performance insights
+- **Links:** [📈 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzlhOGMyMGItZjdkNS00NzgwLWJkNmMtNmZkYjVmMTg4NDg0IiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)
 
-#### 💼 [Automated ETL Pipeline for Financial Reporting](https://github.com/aharkane/courtiers-commissions-reporting)
-**Production ETL system** for multi-broker commission processing and reporting
-- **Stack:** Python, Pandas, Automated Report Generation
-- **Business Impact:** Streamlined operations for 7+ insurance brokers
-- **Output:** Automated Excel reporting with dynamic business logic
 
 
 
