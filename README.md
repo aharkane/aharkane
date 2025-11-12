@@ -59,12 +59,12 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 
 | Certification | Badge | Verify |
 |---------------|-------|--------|
-| **Azure Data Engineer Associate** (DP-203) | <p align="center"> <img src="./badges/azure.png" width="110"> </p>  | [View Credential](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706) |
-| **Power BI Data Analyst Associate** (PL-300) | <p align="center"> <img src="./badges/powerbi.png" width="110"> </p> | [View Credential](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c) |
-| **Microsoft Fabric Data Warehousing** | <p align="center"> <img src="./badges/fabric.png" width="100"> </p> | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A) |
-| **Databricks Fundamentals** | <p align="center"> <img src="./badges/databricks.png" width="120"> </p> | [View Credential](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816) |
-| **dbt Fundamentals** | <p align="center"> <img src="./badges/dbt.png" width="100"> </p> | [View Credential](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d) |
-| **Google Data Analytics Professional** | <p align="center"> <img src="./badges/google.png" width="180"> </p> | [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/2YYTBUFBJFAX) |
+| **Azure Data Engineer Associate** (DP-203) | <p align="center"> <img src="./badges/azure.png" width="90"> </p>  | [View Credential](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/19a5370ba9092706) |
+| **Power BI Data Analyst Associate** (PL-300) | <p align="center"> <img src="./badges/powerbi.png" width="90"> </p> | [View Credential](https://learn.microsoft.com/en-us/users/amineharkane-6987/credentials/6fa9f192fce1221c) |
+| **Microsoft Fabric Data Warehousing** | <p align="center"> <img src="./badges/fabric.png" width="80"> </p> | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AmineHARKANE-6987/26987A24EF5BF28A) |
+| **Databricks Fundamentals** | <p align="center"> <img src="./badges/databricks.png" width="100"> </p> | [View Credential](https://credentials.databricks.com/97a08616-9404-430a-a137-6262c5756816) |
+| **dbt Fundamentals** | <p align="center"> <img src="./badges/dbt.png" width="80"> </p> | [View Credential](https://credentials.getdbt.com/12d0afd7-8aa6-4fac-87be-2bb03644465d) |
+| **Google Data Analytics Professional** | <p align="center"> <img src="./badges/google.png" width="160"> </p> | [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/2YYTBUFBJFAX) |
 
 ---
 
