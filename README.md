@@ -3,7 +3,7 @@
 ## Data Engineer | Business Intelligence Specialist | Big Data & Cloud Solutions
 
 🎓 **Master's in Big Data Engineering** (Final Year) | 📍 Based in France  
-💼 **Open to opportunities:** BI Engineer | Data Engineer | Big Data Engineer roles (Internships & Full-time)
+💼 **Open to opportunities:** BI Engineer | Data Engineer | Big Data Engineer roles Internships
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aharkane)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harkaneamine@gmail.com)
