@@ -69,14 +69,11 @@ Data Engineering graduate with **2+ years of hands-on experience** building prod
 ---
 
 ## 💼 Featured Projects
-### [Cockpit de Pilotage 360° – Performance Établissements](https://app.powerbi.com/view?r=eyJrIjoiYTNlOWU0MGYtYWYzMy00ZGZhLTlkMTAtMTU3MzNiMTM0ZDhkIiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)| Stack technique : Power BI, DAX, Power Query (M), SQL
--	Conçu un tableau de bord décisionnel centralisant 4 domaines stratégiques (RH, Immobilier, Restauration, Énergie) au sein d'un modèle unique pour offrir une vision transverse de l'activité des sites de production.
--	Architecturé un modèle de données complexe en constellation (Galaxy Schema) interconnectant 7 tables de faits et plus de 30 tables de dimension, avec gestion dynamique des environnements (Dev/Prod) via paramètres de requête.
--	Développé un algorithme de ventilation pour estimer les surfaces d'enseignement et la consommation énergétique par établissement, en désagrégeant les données sources (Immobiliers) via des clés de répartition pondérées par les surfaces SHON et les effectifs.
--	Développé un algorithme de ventilation pour estimer les surfaces d'enseignement et la consommation énergétique par site de production, en désagrégeant les données sources (Immobiliers) via des clés de répartition pondérées : par les surfaces SHON pour l'énergie et au prorata des effectifs pour les surfaces des espace de travail.
--	Implémenté des analyses croisées (Consommation Énergétique vs Indice de Vétusté) pour le pilotage patrimonial et durable, offrant une aide à la décision stratégique pour prioriser les investissements de rénovation thermique.
--	Développé un module de contrôle pour l’audit de gestion, comparant les données de facturation aux données de contrôle d'accès, permettant d'identifier et de corriger les écarts de recettes sur le service de restauration.
--	Conçu une interface utilisateur (UX/UI) de type "App" avec un thème JSON personnalisé et une navigation graphique par icônes métiers, intégrant des visuels avancés pour maximiser l'adoption par les décideurs.
+### [Cockpit et rapports de performance des sites de production](https://app.powerbi.com/view?r=eyJrIjoiYTNlOWU0MGYtYWYzMy00ZGZhLTlkMTAtMTU3MzNiMTM0ZDhkIiwidCI6IjBhNmU5Njk2LWE1ZDktNDFiOS04MDhmLWI4YTQ1YjJhMmI2MyJ9)
+- Conçu un cockpit type "App" (UX/UI optimisée) unifiant 4 domaines via un modèle en constellation (7 faits, 30+ dim.).
+- Développé un algorithme DAX de ventilation analytique désagrégeant les coûts énergétiques et surface utiles des ensembles immobiliers vers la maille site (surface SHON vers surface de travail) via des clés de répartition pondérées.
+- Implémenté des matrices décisionnelles (énergie vs vétusté) et un module d'audit (facturation vs pointage) pour sécuriser les recettes de la restauration
+
 
 ### 🏢 [Production Data Warehouse - Metadata-Driven ETL](https://github.com/aharkane/adventureworks-metadata_driven_data_warehouse_implementation)
 **Production-scale ETL system with automated dimensional modeling and comprehensive audit framework**
